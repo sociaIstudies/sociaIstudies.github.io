@@ -1,0 +1,16 @@
+{
+"companyName": "SDG Limited",
+"productName": "Stolk.io",
+"productVersion": "1.0",
+"dataUrl": "b711c3d93a52ccd9a8e2010ea7940b35.unityweb",
+"wasmCodeUrl": "f972df2f4b350a6e6afdc450d56983bc.wasm",
+"wasmFrameworkUrl": "bea45633ab362755bba78b392acbfd6c.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.11f1"
+}
